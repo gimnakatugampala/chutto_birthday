@@ -23,13 +23,13 @@ body {
 
 @media (max-width: 1000px) {
   .container {
-    font-size: 40px;
+    font-size: 35px;
     left: 20%;
   }
 }
 @media (max-width: 750px) {
   .container {
-    font-size: 35px;
+    font-size: 32px;
     left: 10%;
   }
 }
